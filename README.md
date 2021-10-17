@@ -36,7 +36,9 @@ I am a PhD student in the School of network and information security, [Xidian Un
   - 1\% isolation data is required
   - A novel stratrgy benefit companies, research institutes, or government agencies to train backdoor-free machine learning models
 
+### 📫 How to reach me:
 
+- yglee@stu.xidian.edu.cn
 
 <!--
 **Yige-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
