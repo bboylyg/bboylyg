@@ -29,7 +29,7 @@ I am a PhD student in the School of network and information security, [Xidian Un
 - **Neural Attention Distillation (NAD)**
   - A simple and universal method against 6 state-of-the-art backdoor attacks via knowledge distillation
   - Only a small amount of clean data is required (5%)
-  - Only a few epochs of fne-tuning (2-10 epochs) are required
+  - Only a few epochs of fine-tuning (2-10 epochs) are required
 
 - **Anti-Backdoor Learning (ABL)**
   - Simple, effective, and universal, can defend against 10 state-of-the-art backdoor attacks
