@@ -8,7 +8,7 @@ I am a PhD student in the School of network and information security, [Xidian Un
 - Robust training against backdoor attacks
 - Design and implement a general defense framework for backdoor attacks
 
-🔭 My Internship Experience:
+🤔 My Internship Experience:
 
 - Beijing Samsung Electronics Research Institute (*2018.06-2018.09*)
   - Review study on model lightweight methods
