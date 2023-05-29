@@ -17,8 +17,9 @@ I am a PhD student in the School of network and information security, [Xidian Un
   - Large-scale video retrieval based on perceptual hash
   - Web video annotation tool development -->
 
-### 🌱 Publications:
+### 🌱 Publications:  
 
+- **Yige Li**, Xixiang Lyu, et al., “Reconstructive Neuron Pruning for Backdoor Defense”, ICML 2023.  
 - **Yige Li**, Xixiang Lyu, et al., “Anti-Backdoor Learning: Training Clean Models on Poisoned Data”, NeurIPS 2021.
 - **Yige Li**, Xixiang Lyu, et al., “Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks”, ICLR 2021.
 <!-- - 张煜，吕锡香，邹宇聪， **李一戈**，“基于生成对抗网络的文本序列数据集脱敏”，网络安全学报， 2020.
