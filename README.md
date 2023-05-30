@@ -1,6 +1,6 @@
 ### Hi there, I am Yige Li👋
 
-I am a PhD student in the School of network and information security, [Xidian University](https://www.xidian.edu.cn/). I am supervised by Prof. [Xixiang Lyu](https://web.xidian.edu.cn/xxlv/). 
+I am a PhD student in [Xidian University](https://www.xidian.edu.cn/). I am supervised by Prof. [Xixiang Lyu](https://web.xidian.edu.cn/xxlv/). 
 
 ### 🔭 My research mainly focus on:
 
