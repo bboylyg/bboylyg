@@ -19,6 +19,7 @@ I have completed my Ph.D. degree at [Xidian University](https://www.xidian.edu.c
 
 ### 🌱 Publications:  
 
+- **Yige Li**, Xingjun Ma, et al., “Multi-Trigger Backdoor Attacks: More Triggers, More Threats”, submitting, 2024. 
 - **Yige Li**, Xixiang Lyu, et al., “Reconstructive Neuron Pruning for Backdoor Defense”, ICML 2023.  
 - **Yige Li**, Xixiang Lyu, et al., “Anti-Backdoor Learning: Training Clean Models on Poisoned Data”, NeurIPS 2021.
 - **Yige Li**, Xixiang Lyu, et al., “Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks”, ICLR 2021.
