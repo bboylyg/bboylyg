@@ -1,6 +1,6 @@
 ### Hi there, I am Yige Li👋
 
-I have completed my Ph.D. degree at [Xidian University](https://www.xidian.edu.cn/) supervised by Prof. [Xixiang Lyu](https://web.xidian.edu.cn/xxlv/). Research publications in [Google Scholar](https://scholar.google.com/citations?user=h0cS2nQAAAAJ&hl=zh-EN).
+I am a research fellow at the School of Computing and Information Systems at [Singapore Management University](https://www.smu.edu.sg/). I have completed my Ph.D. degree at [Xidian University](https://www.xidian.edu.cn/) supervised by Prof. [Xixiang Lyu](https://web.xidian.edu.cn/xxlv/). Research publications in [Google Scholar](https://scholar.google.com/citations?user=h0cS2nQAAAAJ&hl=zh-EN).
 
 ### 🔭 My research mainly focus on:
 
@@ -40,7 +40,9 @@ I have completed my Ph.D. degree at [Xidian University](https://www.xidian.edu.c
 
 ### 📫 How to reach me:
 
-- yglee@stu.xidian.edu.cn
+- yigeli@smu.edu.sg  
+- yglee@stu.xidian.edu.cn  
+
 
 <!--
 **Yige-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
