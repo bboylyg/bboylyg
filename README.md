@@ -1,6 +1,6 @@
 ### Hi there, I am Yige Li👋
 
-I am a research fellow at the School of Computing and Information Systems at [Singapore Management University](https://www.smu.edu.sg/) supervised by Prof. [Jun Sun](https://scholar.google.com/citations?user=DVsEyn0AAAAJ&hl=zh-CN) and work closely with the Prof. [Xingjun Ma](https://scholar.google.com/citations?user=XQViiyYAAAAJ&hl=zh-CN) at Fudan university. I have completed my Ph.D. degree at [Xidian University](https://www.xidian.edu.cn/) supervised by Prof. [Xixiang Lyu](https://web.xidian.edu.cn/xxlv/). Research publications in [Google Scholar](https://scholar.google.com/citations?user=h0cS2nQAAAAJ&hl=zh-EN).
+I am a research fellow at the School of Computing and Information Systems at [Singapore Management University](https://www.smu.edu.sg/) supervised by Prof. [Jun Sun](https://scholar.google.com/citations?user=DVsEyn0AAAAJ&hl=zh-CN). I also work closely with the Prof. [Xingjun Ma](https://scholar.google.com/citations?user=XQViiyYAAAAJ&hl=zh-CN) at Fudan university. I have completed my Ph.D. degree at [Xidian University](https://www.xidian.edu.cn/) supervised by Prof. [Xixiang Lyu](https://web.xidian.edu.cn/xxlv/). Research publications in [Google Scholar](https://scholar.google.com/citations?user=h0cS2nQAAAAJ&hl=zh-EN).
 
 ### 🔭 My research mainly focus on:
 
