@@ -1,6 +1,14 @@
-### Hi there, I am Yige Li👋
+### Hi there, I am Yige Li 👋
 
-I am a research fellow at the School of Computing and Information Systems at [Singapore Management University](https://www.smu.edu.sg/) supervised by Prof. [Jun Sun](https://scholar.google.com/citations?user=DVsEyn0AAAAJ&hl=zh-CN). I also work closely with the Prof. [Xingjun Ma](https://scholar.google.com/citations?user=XQViiyYAAAAJ&hl=zh-CN) at Fudan university. I have completed my Ph.D. degree at [Xidian University](https://www.xidian.edu.cn/) supervised by Prof. [Xixiang Lyu](https://web.xidian.edu.cn/xxlv/). Research publications in [Google Scholar](https://scholar.google.com/citations?user=h0cS2nQAAAAJ&hl=zh-EN).
+I am a research fellow at the School of Computing and Information Systems at [Singapore Management University](https://www.smu.edu.sg/) supervised by Prof. [Jun Sun](https://scholar.google.com/citations?user=DVsEyn0AAAAJ&hl=zh-CN). I also work closely with Prof. [Xingjun Ma](https://scholar.google.com/citations?user=XQViiyYAAAAJ&hl=zh-CN) at Fudan University. I completed my Ph.D. at [Xidian University](https://www.xidian.edu.cn/) under the supervision of Prof. [Xixiang Lyu](https://web.xidian.edu.cn/xxlv/).  
+Research publications: [Google Scholar](https://scholar.google.com/citations?user=h0cS2nQAAAAJ&hl=zh-EN)
+
+
+I pursue research in **Trustworthy AI**, aiming to build secure, robust, and interpretable systems that align with human values and cognition.  
+I’m especially interested in **generative models** and **AI safety**, and I seek simple yet insightful solutions grounded in theory. Guided by the philosophy *"Everything should be made as simple as possible, but not simpler,"* I approach research with both rigor and curiosity.  
+
+Outside of work, I enjoy **rock climbing** 🧗 and **swimming** 🏊.
+
 
 ### 🔭 My research mainly focus on:
 
