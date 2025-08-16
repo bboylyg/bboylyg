@@ -19,7 +19,7 @@ We're honored to share that our [*BackdoorLLM*](https://bboylyg.github.io/backdo
 ### 📫 How to reach me:
 
 - yigeli@smu.edu.sg
-- [My CV](assets/CV_YigeLi_2025.pdf)
+- [My CV](CV_YigeLi_2025.pdf)
 
 <!--
 **Yige-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
