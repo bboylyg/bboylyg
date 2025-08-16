@@ -7,8 +7,8 @@ I pursue research in **Trustworthy AI**, aiming to build secure, robust, and int
 
 ### 🔭 My research mainly focus on:
 
-- Understanding the eﬀectiveness of backdoor attacks
-- Robust training against backdoor attacks
+- AI Safety on LLMs and VLMs
+- Backdoor attacks and jailbreak attacks on LLMs and VLMs
 - Design and implement a general defense framework for backdoor attacks
 
 <!-- ### 🤔 My Internship Experience:
