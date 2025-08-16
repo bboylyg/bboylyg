@@ -19,7 +19,6 @@ We're honored to share that our *BackdoorLLM* benchmark has won the **First Priz
 ### 📫 How to reach me:
 
 - yigeli@smu.edu.sg  
-- yglee@stu.xidian.edu.cn  
 
 
 <!--
