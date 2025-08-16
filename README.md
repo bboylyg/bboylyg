@@ -14,7 +14,7 @@ I pursue research in **Trustworthy AI**, aiming to build secure, robust, and int
 
 ### ⚡ Award Honors:
 
-We're honored to share that our *BackdoorLLM* benchmark has won the **First Prize** in the [SafetyBench competition](https://www.mlsafety.org/safebench/winners), organized by the [Center for AI Safety](https://safe.ai/). Huge thanks to the organizers and reviewers for recognizing our work.
+We're honored to share that our [*BackdoorLLM*](https://bboylyg.github.io/backdoorllm-website.github.io/) has won the **First Prize** in the [SafetyBench competition](https://www.mlsafety.org/safebench/winners), organized by the [Center for AI Safety](https://safe.ai/). Huge thanks to the organizers and reviewers for recognizing our work.
 
 ### 📫 How to reach me:
 
