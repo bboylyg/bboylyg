@@ -19,10 +19,10 @@ We're honored to share that our [*BackdoorLLM*](https://bboylyg.github.io/backdo
 ### 🏅 Professional Activities
 
 **Program Committee Member**  
-ICLR, ICML, NeurIPS, CVPR, ICCV, AAAI, ACL, EMNLP
+- ICLR, ICML, NeurIPS, CVPR, ICCV, AAAI, ACL, EMNLP
 
 **Journal Reviewer**  
-IEEE TPAMI, IEEE TIFS, IEEE TDSC, IEEE TKDE
+- IEEE TPAMI, IEEE TIFS, IEEE TDSC, IEEE TKDE
 
 
 ### 📫 How to reach me:
