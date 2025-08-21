@@ -16,6 +16,15 @@ I pursue research in **Trustworthy AI**, aiming to build secure, robust, and int
 
 We're honored to share that our [*BackdoorLLM*](https://bboylyg.github.io/backdoorllm-website.github.io/) has won the **First Prize** in the [SafetyBench competition](https://www.mlsafety.org/safebench/winners), organized by the [Center for AI Safety](https://safe.ai/). Huge thanks to the organizers and reviewers for recognizing our work.
 
+### 🏅 Professional Activities
+
+**Program Committee Member**  
+ICLR, ICML, NeurIPS, CVPR, ICCV, AAAI, ACL, EMNLP
+
+**Journal Reviewer**  
+IEEE TPAMI, IEEE TIFS, IEEE TDSC, IEEE TKDE
+
+
 ### 📫 How to reach me:
 
 - yigeli@smu.edu.sg
