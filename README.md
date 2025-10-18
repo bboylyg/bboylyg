@@ -19,7 +19,7 @@ We're honored to share that our [*BackdoorLLM*](https://bboylyg.github.io/backdo
 ### 🏅 Professional Activities
 
 **Program Committee Member**  
-- I’m very glad to share that I’ve been invited to serve as **an Area Chair (AC) for ACL 2026**, one of the top conferences in natural language processing.  
+- I’m very glad to share that I’ve been invited to serve as **an Area Chair (AC) for ACL 2026**, one of the top conferences in NLP.  
 - ICLR, ICML, NeurIPS, CVPR, ICCV, AAAI, ACL, EMNLP
 
 **Journal Reviewer**  
