@@ -4,6 +4,7 @@ I am a research fellow at the School of Computing and Information Systems at [Si
 
 I pursue research in **Trustworthy AI**, aiming to build secure, robust, and interpretable systems that align with human values and cognition.  I’m especially interested in **generative models** (LLMs, diffusion models, and AI agents) and **AI safety**, and I seek simple yet insightful solutions grounded in theory. Guided by the philosophy *"Everything should be made as simple as possible, but not simpler,"* I approach research with both rigor and curiosity. Outside of work, I enjoy **rock climbing** 🧗 and **swimming** 🏊.
 
+More information please see [my personal page](https://bboylyg.github.io/).
 
 ### 🔭 My research mainly focus on:
 
